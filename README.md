@@ -1,2 +1,2 @@
 # CitiBikeDemo
-Cit
+Citi Bike Demo
